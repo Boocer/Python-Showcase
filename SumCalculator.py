@@ -1,0 +1,5 @@
+print("Welcome to the python calculator")
+firstnumber = input("First Number: ")
+secondNumber = input("Second Number: ")
+sum =float( firstnumber) + float(secondNumber)
+print("The number is " + str(sum))
