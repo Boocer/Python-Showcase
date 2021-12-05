@@ -1,0 +1,5 @@
+name = input ("What is your name? ")
+print("Hello "+ name)
+birth_year = input("Enter your age ")
+age= 2021- int(birth_year)
+print(age)
